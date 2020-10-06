@@ -1,0 +1,13 @@
+body {
+  background-color: #ecf0f1;
+}
+
+.arrivaldate {
+  font-size:12px;
+  color:grey
+}
+
+.nopadding {
+  padding-right:0;
+  padding-left:0;
+}
